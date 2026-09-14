@@ -1,3 +1,5 @@
+## Beautiful ls
+
 ```
 brew install eza
 ```
