@@ -1,0 +1,6 @@
+theme = light:iterm-light,dark:iterm-dark
+
+font-family = JetBrainsMono Nerd Font
+font-size = 16
+
+bold-color = bright
